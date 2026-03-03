@@ -1,0 +1,2 @@
+Line 1 in GIT
+Line 2 in GIT
